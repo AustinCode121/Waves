@@ -31,7 +31,7 @@ background("white")
    b.shapeColor = "red";
   }
   if(keyDown("3")){
-  s.shapeColor = "blue";
+  s.shapeColor = "#add8e6";
   }
   if(keyDown("4")){
    b.shapeColor = "orange";
