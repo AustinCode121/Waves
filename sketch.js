@@ -14,7 +14,7 @@ function draw(){
 background("white")
     s.pointTo(mouseX,mouseY);
 
-  s.shapeColor = "blue";
+
 
 
   b = createSprite(200,200,90,10);
@@ -31,7 +31,7 @@ background("white")
    b.shapeColor = "red";
   }
   if(keyDown("3")){
-   b.shapeColor = "green";
+  s.shapeColor = "blue";
   }
   if(keyDown("4")){
    b.shapeColor = "orange";
