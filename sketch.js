@@ -13,7 +13,7 @@ s = createSprite(10,200,90,10);
 function draw(){
 background("white")
     s.pointTo(mouseX,mouseY);
-  b.shapeColor = "white";
+
 
 
 
